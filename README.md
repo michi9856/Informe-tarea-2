@@ -54,3 +54,15 @@ Especificos :
 [![Tarea-8.png](https://i.postimg.cc/nh53rHp0/Tarea-8.png)](https://postimg.cc/7533QrC2)
 
 # Capitulo 4
+
+[![Deber-1.png](https://i.postimg.cc/vmYm0FCt/Deber-1.png)](https://postimg.cc/LJWRs79J)
+
+[![Deber-2.png](https://i.postimg.cc/nhkmFkJT/Deber-2.png)](https://postimg.cc/Jss0KjtB)
+
+[![Deber-3.png](https://i.postimg.cc/6p97mvvZ/Deber-3.png)](https://postimg.cc/VdVLS54s)
+
+[![Deber-4.png](https://i.postimg.cc/fTWD4j8M/Deber-4.png)](https://postimg.cc/rzHvxW6H)
+
+[![Deber-5.png](https://i.postimg.cc/C1HTXzDZ/Deber-5.png)](https://postimg.cc/Vr6VbsK1)
+
+[![Deber-6.png](https://i.postimg.cc/0j234ZP3/Deber-6.png)](https://postimg.cc/N9Sp96y7)
