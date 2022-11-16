@@ -35,3 +35,15 @@ Especificos :
 • Seleccione resistencias adecuadas con base en consideración de potencia.
 
 # MARCO TEÓRICO
+
+
+[![Tarea-1.png](https://i.postimg.cc/kXS3qhQr/Tarea-1.png)](https://postimg.cc/VdzHFgZ4)
+[![Tarea-2.png](https://i.postimg.cc/vBTkjPYN/Tarea-2.png)](https://postimg.cc/nj839GQ4)
+[![Tarea-3.png](https://i.postimg.cc/bdc5ZpQ7/Tarea-3.png)](https://postimg.cc/bSggMXVg)
+[![Tarea-4.png](https://i.postimg.cc/dtGs40ST/Tarea-4.png)](https://postimg.cc/kBXP57Cn)
+[![Tarea-5.png](https://i.postimg.cc/jjSRx4qz/Tarea-5.png)](https://postimg.cc/dhpbndy1)
+[![Tarea-6.png](https://i.postimg.cc/fTCFznVr/Tarea-6.png)](https://postimg.cc/xckg5Zyv)
+[![Tarea-7.png](https://i.postimg.cc/Qx84n4fk/Tarea-7.png)](https://postimg.cc/V5hWJRQd)
+[![Tarea-8.png](https://i.postimg.cc/nh53rHp0/Tarea-8.png)](https://postimg.cc/7533QrC2)
+
+# Capitulo 4
