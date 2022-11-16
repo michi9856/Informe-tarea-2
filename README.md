@@ -66,3 +66,15 @@ Especificos :
 [![Deber-5.png](https://i.postimg.cc/C1HTXzDZ/Deber-5.png)](https://postimg.cc/Vr6VbsK1)
 
 [![Deber-6.png](https://i.postimg.cc/0j234ZP3/Deber-6.png)](https://postimg.cc/N9Sp96y7)
+
+4.1 VÍDEO
+https://www.youtube.com/watch?v=NGfw6DlDJZQ
+
+5.1 CONCLUSIONES
+• Conocimos las facilidades que nos da el saber calcular de manera correcta la resistencia, voltaje y corriente mediante la ley de ohm y así conocer los valores de un circuito resistivo.
+
+• Al realizar varios ejercicios nos dimos cuenta que entre más altos sean los vatios en un dispositivo se puede obtener más energía de él por unidad tiempo de igual manera vimos que tiene una estrecha relación con la energía que es la capacidad para realizar el trabajo.
+
+• Aprendimos que si un dispositivo tiene una mala eficiencia nos da como resultado un desperdicio de energía y con esto tendremos costos más altos.
+
+BIBLIOGRAFÍA
