@@ -11,7 +11,7 @@ Docente: Ing. Darwin Alulema
 
 Tema: Cap 3 y 4 del libro Principios de circuitos eléctricos Thomas L. Floyd Octava edición
 
-1.0 Objetivos
+1. Objetivos
 generales:
 
 • Calcular la corriente el voltaje y la resistencia en un circuito electrico.
@@ -34,8 +34,11 @@ Especificos :
 
 • Seleccione resistencias adecuadas con base en consideración de potencia.
 
-# MARCO TEÓRICO
+# 2. MARCO TEÓRICO
 
+# 3. Resolucion de ejercicios
+
+capitulo 3
 
 [![Tarea-1.png](https://i.postimg.cc/kXS3qhQr/Tarea-1.png)](https://postimg.cc/VdzHFgZ4)
 
@@ -53,7 +56,7 @@ Especificos :
 
 [![Tarea-8.png](https://i.postimg.cc/nh53rHp0/Tarea-8.png)](https://postimg.cc/7533QrC2)
 
-# Capitulo 4
+Capitulo 4
 
 [![Deber-1.png](https://i.postimg.cc/vmYm0FCt/Deber-1.png)](https://postimg.cc/LJWRs79J)
 
@@ -67,14 +70,17 @@ Especificos :
 
 [![Deber-6.png](https://i.postimg.cc/0j234ZP3/Deber-6.png)](https://postimg.cc/N9Sp96y7)
 
-4.1 VÍDEO
-https://www.youtube.com/watch?v=NGfw6DlDJZQ
+# 4. VÍDEO
 
-5.1 CONCLUSIONES
+
+# 5. CONCLUSIONES
+
 • Conocimos las facilidades que nos da el saber calcular de manera correcta la resistencia, voltaje y corriente mediante la ley de ohm y así conocer los valores de un circuito resistivo.
 
 • Al realizar varios ejercicios nos dimos cuenta que entre más altos sean los vatios en un dispositivo se puede obtener más energía de él por unidad tiempo de igual manera vimos que tiene una estrecha relación con la energía que es la capacidad para realizar el trabajo.
 
 • Aprendimos que si un dispositivo tiene una mala eficiencia nos da como resultado un desperdicio de energía y con esto tendremos costos más altos.
 
-BIBLIOGRAFÍA
+# BIBLIOGRAFÍA
+
+Floyd, T. (2007). Principios de circuitos electricos. Octava edición. Pearson Educación
