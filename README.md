@@ -74,7 +74,7 @@ Capitulo 4
 [![Deber-6.png](https://i.postimg.cc/0j234ZP3/Deber-6.png)](https://postimg.cc/N9Sp96y7)
 
 # 4. VÍDEO
-
+https://youtu.be/a7UuAe7pDH4
 
 # 5. CONCLUSIONES
 
