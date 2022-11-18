@@ -36,7 +36,7 @@ Especificos :
 
 # 2. MARCO TEÓRICO
 
-![SCAMPER (2)](https://user-images.githubusercontent.com/116761073/202786617-6f2f67cc-77b7-4e38-8c5a-9f4e0dd5fe7e.jpg)
+![SCAMPER (3)](https://user-images.githubusercontent.com/116761073/202788145-fc5fa2dc-6e59-44a7-b1b5-6715351f8f9c.jpg)
 
 
 # 3. Resolucion de ejercicios
