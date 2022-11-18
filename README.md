@@ -11,7 +11,7 @@ Docente: Ing. Darwin Alulema
 
 Tema: Cap 3 y 4 del libro Principios de circuitos eléctricos Thomas L. Floyd Octava edición
 
-1. Objetivos
+# 1. Objetivos
 generales:
 
 • Calcular la corriente el voltaje y la resistencia en un circuito electrico.
@@ -35,6 +35,9 @@ Especificos :
 • Seleccione resistencias adecuadas con base en consideración de potencia.
 
 # 2. MARCO TEÓRICO
+
+![SCAMPER (2)](https://user-images.githubusercontent.com/116761073/202786617-6f2f67cc-77b7-4e38-8c5a-9f4e0dd5fe7e.jpg)
+
 
 # 3. Resolucion de ejercicios
 
@@ -75,11 +78,11 @@ Capitulo 4
 
 # 5. CONCLUSIONES
 
-• Conocimos las facilidades que nos da el saber calcular de manera correcta la resistencia, voltaje y corriente mediante la ley de ohm y así conocer los valores de un circuito resistivo.
+• Ahora entendemos las facilidades que nos da el saber calcular de manera correcta la resistencia, voltaje y corriente mediante la ley de ohm y así conocer los valores de un circuito resistivo.
 
-• Al realizar varios ejercicios nos dimos cuenta que entre más altos sean los vatios en un dispositivo se puede obtener más energía de él por unidad tiempo de igual manera vimos que tiene una estrecha relación con la energía que es la capacidad para realizar el trabajo.
+• Despues de resolver algunos ejercicios nos dimos cuenta que entre más altos sean los vatios en un dispositivo se puede obtener más energía de él por unidad tiempo de igual manera vimos que tiene una estrecha relación con la energía que es la capacidad para realizar el trabajo.
 
-• Aprendimos que si un dispositivo tiene una mala eficiencia nos da como resultado un desperdicio de energía y con esto tendremos costos más altos.
+• Sabemos que si un dispositivo tiene una mala eficiencia nos da como resultado un desperdicio de energía y con esto tendremos costos más altos.
 
 # BIBLIOGRAFÍA
 
